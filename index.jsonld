@@ -15,12 +15,6 @@
       "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXvwbmRMFK4EEAAoCAwTxLhR+XNVFV1fgpltpyGKVL6HPosro619owYCY\r\n9b5fbHDDEP2MNkrCsB1MSc6pcbpFQNlUDDnhnTw9ctaB5IcKzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJe/BuZBgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQQAg7QIWJ0zEpXgD+M6uBBKCrG0xyLmDStXUMj/4+\r\ngkb7KsM9FwriOGXEFMIBAI9cAsK4OMsmaOHOd9fQwNzkcDkCQWwlWC0eA7BN\r\nck+zzlMEXvwbmRIFK4EEAAoCAwTEZHDzhL4OmqWe9MT3LZfTIx+0MRdwJq2q\r\nsI6m1wzZ59OJffwdspejhFxJEV2dmIjrYeG35bR1B3lTHxWawXy9AwEIB8Jh\r\nBBgTCAAJBQJe/BuZAhsMAAoJEEAIO0CFidMx2GAA/RGH3OaKSvCuZ2gsFFWN\r\ntRU5oXGdROTWKJ02UN8JBb2DAQCMT73Yu1/KPrUDhmzv5i2BVMe34iF5cO8Z\r\nP9+jAtl3bA==\r\n=beAs\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
     },
     {
-      "type": "OpenPgpVerificationKey2019",
-      "id": "did:github:ZXC-zxc#k4cZcJh4Ekfihogo8USd__3cjXtdv7fd2ofkdWiYtZY",
-      "controller": "did:github:ZXC-zxc",
-      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXvwbmRMFK4EEAAoCAwS2HbNy5fa0i0zRcvNcurINglrSFV//3fCcROyl\r\n7PLknPJl0nFSTeMYgpWAX0VxpIsIrFgzqtJa2+TTeYfO2eRozRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJe/BuZBgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQP1V4uV98YH/rmgD8DAvKlmIQNSWKB+z1Wo0rWGry\r\nYNNEgkx3ITutQ0FPiywA/iKmUlb2jRyrbBvS+6bVoR9C1il1YTi50HCLKQWU\r\nVDmbzlMEXvwbmRIFK4EEAAoCAwR/QwSfWc3x2lfX3XVPFsrLnUB4kENlf3jk\r\n8cWfeZoLJyi7ceSzQONfd7hHxWcUxnJi7RU1ouzTl+Hhip8YIJcaAwEIB8Jh\r\nBBgTCAAJBQJe/BuZAhsMAAoJED9VeLlffGB/cVkA/iMFp3d2j8uvN4qFMv+z\r\nUpaEQuUc6QS57fRvOtk2lFJtAQDnaxQWw4mrBtP/AlpajgmoQDyDMZwzHX6X\r\no0eUVMQXsg==\r\n=t8cW\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
-    },
-    {
       "type": "Ed25519VerificationKey2018",
       "id": "did:github:ZXC-zxc#cnLK1rNkHxOt1Ft2p6ZOHXKjd8WHrC3ZUfRF09oovUE",
       "controller": "did:github:ZXC-zxc",
@@ -45,12 +39,5 @@
       "controller": "did:github:ZXC-zxc",
       "publicKeyBase58": "91pmJG5LPiGcbMSBprz7DkCTKVAznqg8ELFyZw51mVw1"
     }
-  ],
-  "proof": {
-    "type": "Ed25519Signature2018",
-    "created": "2020-07-01T05:14:01Z",
-    "verificationMethod": "did:github:ZXC-zxc#cnLK1rNkHxOt1Ft2p6ZOHXKjd8WHrC3ZUfRF09oovUE",
-    "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..Y1AouQbxzmJXOeTYjPApPbPROq5nhRzJjBWR_WRMP389OHdfsm15xRmrda0lN0ruOYbsOrn0Nx-jN8LnrW7bBQ"
-  }
+  ]
 }
