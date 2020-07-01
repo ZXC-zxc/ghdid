@@ -39,5 +39,12 @@
       "controller": "did:github:ZXC-zxc",
       "publicKeyBase58": "91pmJG5LPiGcbMSBprz7DkCTKVAznqg8ELFyZw51mVw1"
     }
-  ]
+  ],
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2020-07-01T07:17:01Z",
+    "verificationMethod": "did:github:ZXC-zxc#cnLK1rNkHxOt1Ft2p6ZOHXKjd8WHrC3ZUfRF09oovUE",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..qmpK2Hchuaq0f79ZvTna1lTFCEfL2zMmJKSdbFVyLW273b0O1Zx6scGhwh9alXqbzzR4LykPeEW6DcOK_VGnAQ"
+  }
 }
